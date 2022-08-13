@@ -1,0 +1,2 @@
+# PHPpatika
+Patikadaki Ödevlerim
